@@ -8,11 +8,17 @@ title: markdown
  
  ## Text My name is Rajanssh Gadhvi.
  
- ### Text I am a student at Heriot watt studying Computer Science, year 2.<a href="https://github.com/Rajanssh">Rajanssh</a>
+ ### Text I am a student at Heriot watt studying Computer Science, year 2. <a href="https://github.com/Rajanssh">Rajanssh Gadhvi</a>
     
- #### Text My Hobbies are:
+ #### Text Web Programming will teach us how to create websites and work with websites using github.
  
- *Cricket
- *Gaming
- *Sleeping
+ ##### Text Lab 1 is going to help us understand and use:
+ 
+ *Markdown
+ 
+ *HTML
+ 
+ *CSS
+ 
+ 
 
